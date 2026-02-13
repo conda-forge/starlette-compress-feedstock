@@ -3,7 +3,7 @@ About starlette-compress-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/starlette-compress-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/Zaczero/starlette-compress
+Home: https://https//github.com/Zaczero/pkgs/tree/main/starlette-compress
 
 Package license: 0BSD
 
@@ -144,3 +144,4 @@ Feedstock Maintainers
 =====================
 
 * [@dennis-wey](https://github.com/dennis-wey/)
+
