@@ -37,7 +37,7 @@ tests:
 about:
   summary: Compression middleware for Starlette - supporting ZStd, Brotli, and GZip
   license: 0BSD
-  license_file: LICENSE
+  license_file: LICENSE.txt
   homepage: https://https://github.com/Zaczero/pkgs/tree/main/starlette-compress
 
 extra:
