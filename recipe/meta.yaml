@@ -38,7 +38,6 @@ about:
   home: https://github.com/Zaczero/starlette-compress
   summary: Compression middleware for Starlette - supporting ZStd, Brotli, and GZip
   license: 0BSD
-  license_file: LICENSE
 
 extra:
   recipe-maintainers:
