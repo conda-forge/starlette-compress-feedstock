@@ -30,6 +30,7 @@ requirements:
 
 tests:
   - python:
+      python_version: ${{ python_min }}.*
       imports:
         - starlette_compress
       pip_check: true
@@ -37,7 +38,7 @@ tests:
 about:
   summary: Compression middleware for Starlette - supporting ZStd, Brotli, and GZip
   license: 0BSD
-  license_file: LICENSE.txt
+  license_file: LICENSE
   homepage: https://https://github.com/Zaczero/pkgs/tree/main/starlette-compress
 
 extra:
