@@ -1,5 +1,5 @@
 {% set name = "starlette-compress" %}
-{% set version = "1.6.1" %}
+{% set version = "1.7.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/starlette_compress-{{ version }}.tar.gz
-  sha256: dd1fa8aba94e255a3f7d4e8281c65ec1d6bd02de1af7500f1db1d611ac54071d
+  sha256: 7ebfb0555109341f192a773c660e66737c82ca42e7c5ff1cb2a057af0aea3716
 
 build:
   noarch: python
