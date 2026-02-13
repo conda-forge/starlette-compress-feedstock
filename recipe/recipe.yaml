@@ -23,8 +23,7 @@ requirements:
     - pip
   run:
     - python >=${{ python_min }}
-    - brotli >=1
-    - brotlicffi >=1
+    - brotli-python >=1
     - starlette
     - zstandard >=0.15
 
