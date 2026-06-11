@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 1.7.0
+  version: "1.7.1"
 
 package:
   name: starlette-compress
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/s/starlette-compress/starlette_compress-${{ version }}.tar.gz
-  sha256: 7ebfb0555109341f192a773c660e66737c82ca42e7c5ff1cb2a057af0aea3716
+  sha256: f4df7aa6b0029ec5c4ae960040cd5d375563a4d3f7fc134bd108ebc0ed61536c
 
 build:
   noarch: python
